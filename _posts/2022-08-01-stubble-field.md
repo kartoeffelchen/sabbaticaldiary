@@ -3,7 +3,7 @@ layout: post
 title: "Stubble field"
 categories: cambridge
 ---
-![field in Trumpington](2022-08-01.jpg)
+<img src="/images/2022-08-01.jpg" alt="field in Trumpington" class="center">
 
 I have decided that today is **the** day to start this diary, even though technically I am still on summer holiday and my sabbatical does not begin until 1st September. My track record for keeping a written diary is rather poor (on each occassion it lasted for only a few days) but I hope this one will be different!
 
