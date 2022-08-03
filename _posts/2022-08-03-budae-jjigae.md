@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Budae-jjigae"
+title: "Budae jjigae"
 categories: cambridge, food
 ---
 <img src="/images/2022-08-03.jpg" alt="Korean hotpot" class="center">
