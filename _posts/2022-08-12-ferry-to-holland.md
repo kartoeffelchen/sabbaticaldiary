@@ -3,7 +3,7 @@ layout: post
 title: "Ferry to Holland"
 categories: travel
 ---
-<img src="/images/2022-08-12.jpg" alt="ferry to Holland" class="center">
+<img src="/sabbaticaldiary/images/2022-08-12.jpg" alt="ferry to Holland" class="center">
 
 The total driving distance from Cambridge to Munich is about 990 km (615 miles) (plus the ride on the ferry from Harwich to Hook of Holland), but we will go to Martin's parents for a long weekend first before going to Munich. 
 

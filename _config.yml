@@ -5,6 +5,8 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   The diary of my sabbatical year in Munich. 
 
+baseurl: /sabbaticaldiary
+permalink: /:year/:month/:day/:title:output_ext
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format

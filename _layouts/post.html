@@ -39,12 +39,12 @@ layout: default
   <div class="post-navigation">
     <div class="prev">
     {%- if page.previous.url -%}
-      <a href="{{page.previous.url}}">&laquo;&nbsp;{{page.previous.date | date: date_format}}</a>
+      <a href="{{page.previous.url | relative_url}}">&laquo;&nbsp;{{page.previous.date | date: date_format}}</a>
     {%- endif -%}
     </div>
     <div class="next">
     {%- if page.next.url -%}
-      <a href="{{page.next.url}}">{{page.next.date | date: date_format}}&nbsp;&raquo;</a>
+      <a href="{{page.next.url | relative_url}}">{{page.next.date | date: date_format}}&nbsp;&raquo;</a>
     {%- endif -%}
     </div>
   </div>

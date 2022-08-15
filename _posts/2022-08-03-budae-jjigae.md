@@ -3,7 +3,7 @@ layout: post
 title: "Budae jjigae"
 categories: cambridge, food
 ---
-<img src="/images/2022-08-03.jpg" alt="Korean hotpot" class="center">
+<img src="/sabbaticaldiary/images/2022-08-03.jpg" alt="Korean hotpot" class="center">
 
 This is **not** a food blog but eating budae jjigae (army stew) is today's hightlight for us.
 

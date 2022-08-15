@@ -3,7 +3,7 @@ layout: post
 title: "Little girl, big dreams"
 categories: cambridge, friends
 ---
-<img src="/images/2022-08-06.jpg" alt="Little A wearing my shoes" class="center">
+<img src="/sabbaticaldiary/images/2022-08-06.jpg" alt="Little A wearing my shoes" class="center">
 
 Not only shall I miss my parents, I shall also miss my best friend and her daughter when I am in Munich. What are the chances of having a friend who went to the same kindergarten and secondary school in Hong Kong as I did, studied in England at the same time, and coincidentally settled down in Cambridge? 
 
