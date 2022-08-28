@@ -214,11 +214,12 @@
 }
 
 .post-list {
-  margin-left: 0;
+  margin-left: -15px;
   list-style: none;
 
   > li {
     margin-bottom: $spacing-unit;
+    margin-left: 15px;
   }
 }
 
@@ -229,7 +230,10 @@
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.2);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 
