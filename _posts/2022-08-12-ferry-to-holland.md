@@ -2,6 +2,7 @@
 layout: post
 title: "Ferry to Holland"
 categories: travel
+squareimage: /sabbaticaldiary/images/2022-08-12-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-12.jpg" alt="ferry to Holland" class="center">
 

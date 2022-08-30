@@ -2,6 +2,7 @@
 layout: post
 title: "City centre"
 categories: munich
+squareimage: /sabbaticaldiary/images/2022-08-30-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-30.jpg" alt="new townhall in Munich" class="center">
 

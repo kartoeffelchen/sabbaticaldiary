@@ -2,6 +2,7 @@
 layout: post
 title: "Fish stall"
 categories: london, food
+squareimage: /sabbaticaldiary/images/2022-08-05-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-05.jpg" alt="fish stall" class="center">
 

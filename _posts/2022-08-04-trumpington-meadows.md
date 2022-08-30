@@ -2,6 +2,7 @@
 layout: post
 title: "Trumpington Meadows"
 categories: cambridge, nature
+squareimage: /sabbaticaldiary/images/2022-08-04-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-04.jpg" alt="butterfly" class="center">
 

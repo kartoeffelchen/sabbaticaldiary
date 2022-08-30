@@ -2,6 +2,7 @@
 layout: post
 title: "Evening sun"
 categories: munich
+squareimage: /sabbaticaldiary/images/2022-08-27-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-27.jpg" alt="Lake in the Englisher Garten" class="center">
 

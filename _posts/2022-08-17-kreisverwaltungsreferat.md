@@ -2,6 +2,7 @@
 layout: post
 title: "Kreisverwaltungsreferat"
 categories: munich
+squareimage: /sabbaticaldiary/images/2022-08-17-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-17.jpg" alt="kreisverwaltungsreferat" class="center">
 

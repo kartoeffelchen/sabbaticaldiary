@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Sleepless nights"
-categories: munich
+categories: munich, problems
+squareimage: /sabbaticaldiary/images/2022-08-29-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-29.jpg" alt="mobile phone screenshot" class="center">
 

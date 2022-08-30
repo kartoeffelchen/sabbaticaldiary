@@ -2,6 +2,7 @@
 layout: post
 title: "Oberammergauer Passionsspiel"
 categories: holiday, alps, germany
+squareimage: /sabbaticaldiary/images/2022-08-23-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-23.jpg" alt="Oberammergau passion play theater" class="center">
 

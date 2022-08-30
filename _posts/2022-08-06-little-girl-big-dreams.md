@@ -2,6 +2,7 @@
 layout: post
 title: "Little girl, big dreams"
 categories: cambridge, friends
+squareimage: /sabbaticaldiary/images/2022-08-06-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-06.jpg" alt="Little A wearing my shoes" class="center">
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Corpus Christi College"
 categories: cambridge
+squareimage: /sabbaticaldiary/images/2022-08-08-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-08.jpg" alt="Corpus Christi College" class="center">
 

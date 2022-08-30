@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Sonnenspitze"
-categories: holiday, alps, austria
+categories: holiday, alps, austria, nature
+squareimage: /sabbaticaldiary/images/2022-08-21-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-21.jpg" alt="Sonnenspitze" class="center">
 

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Biergarten"
-categories: munich
+categories: munich, food
+squareimage: /sabbaticaldiary/images/2022-08-16-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-16.jpg" alt="Beer garden" class="center">
 

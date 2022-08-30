@@ -2,6 +2,7 @@
 layout: post
 title: "Concert in a park"
 categories: holiday, alps
+squareimage: /sabbaticaldiary/images/2022-08-20-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-20.jpg" alt="band playing in a park" class="center">
 

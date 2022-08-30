@@ -2,6 +2,7 @@
 layout: post
 title: "Stubble field"
 categories: cambridge
+squareimage: /sabbaticaldiary/images/2022-08-01-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-01.jpg" alt="field in Trumpington" class="center">
 

@@ -2,6 +2,7 @@
 layout: post
 title: "The view from the flat"
 categories: munich
+squareimage: /sabbaticaldiary/images/2022-08-19-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-19.jpg" alt="view from the flat" class="center">
 

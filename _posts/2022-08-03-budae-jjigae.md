@@ -2,6 +2,7 @@
 layout: post
 title: "Budae jjigae"
 categories: cambridge, food
+squareimage: /sabbaticaldiary/images/2022-08-03-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-03.jpg" alt="Korean hotpot" class="center">
 

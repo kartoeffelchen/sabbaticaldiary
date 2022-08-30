@@ -2,6 +2,7 @@
 layout: post
 title: "Last evening in Cambridge"
 categories: cambridge
+squareimage: /sabbaticaldiary/images/2022-08-11-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-08-11.jpg" alt="view from the house after sunset" class="center">
 
