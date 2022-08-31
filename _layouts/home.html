@@ -32,7 +32,9 @@ layout: default
           </a>
         </h3>
         {%- if post.squareimage -%}
+        <a class="post-link" href="{{ post.url | relative_url }}">
         <img src="{{ post.squareimage }}">
+        </a>
         {%- endif -%}
       </li>
       {%- endfor -%}
