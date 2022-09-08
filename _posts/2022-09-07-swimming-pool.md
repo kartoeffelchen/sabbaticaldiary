@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Swimming pool"
-categories: munich, food
+categories: munich
 squareimage: /sabbaticaldiary/images/2022-09-07-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-09-07.jpg" alt="Cosmia swimming pool" class="center">
