@@ -4,7 +4,11 @@ title: "Feathery visitors"
 categories: cambridge
 squareimage: /sabbaticaldiary/images/2022-09-20-square.jpg
 ---
-<img src="/sabbaticaldiary/images/2022-09-20.jpg" alt="bird feeder with goldfinches" class="center">
+<img src="/sabbaticaldiary/images/2022-09-20.jpg" alt="bird feeder with birds" class="center">
+
+The photo of my feathery visitors from last year.
+
+***
 
 The few things I wish I could take from our home in Cambridge to Munich are:
 * the firm mattress (in theory we can get a new one in Munich but I don’t know what to do with it afterwards)
