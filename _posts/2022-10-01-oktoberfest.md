@@ -14,7 +14,7 @@ We went onto the swing ride and while on the ride, we could get an aerial view o
 
 <img src="/sabbaticaldiary/images/2022-10-01-3.jpg" alt="flea circus" class="center">
 
-We also went to a flea circus, which according to this <a href="https://www.bbc.co.uk/programmes/articles/2LF04Y9n5hJTHK1l6ffLhPc/the-rise-and-demise-of-the-flea-circus"> article </a>, it's the only place in the world where you can still see a flea circus. 
+We also went to a flea circus, which according to this <a href="https://www.bbc.co.uk/programmes/articles/2LF04Y9n5hJTHK1l6ffLhPc/the-rise-and-demise-of-the-flea-circus"> article</a>, it's the only place in the world where you can still see a flea circus. 
 
 <img src="/sabbaticaldiary/images/2022-10-01-4.jpg" alt="beer tent" class="center">
 
