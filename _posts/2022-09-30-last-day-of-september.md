@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "autumn"
+title: "Last day of September"
 categories: munich
 squareimage: /sabbaticaldiary/images/2022-09-30-square.jpg
 ---
