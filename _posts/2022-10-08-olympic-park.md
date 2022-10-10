@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Olympic park"
+title: "Olympic Park"
 categories: munich
 squareimage: /sabbaticaldiary/images/2022-10-08-square.jpg
 ---
