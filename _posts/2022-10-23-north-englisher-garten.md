@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Northern part of the Englisher Garten"
+title: "North Englisher Garten"
 categories: munich, nature
 squareimage: /sabbaticaldiary/images/2022-10-23-square.jpg
 ---
