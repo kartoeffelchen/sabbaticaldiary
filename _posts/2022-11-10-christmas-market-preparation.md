@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christmas market preparation"
-categories: cambridge
+categories: munich, christmas
 squareimage: /sabbaticaldiary/images/2022-11-10-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-11-10.jpg" alt="assembling christmas market stall" class="center">

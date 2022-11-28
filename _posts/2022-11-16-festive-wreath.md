@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Festive wreath"
-categories: munich
+categories: munich, christmas
 squareimage: /sabbaticaldiary/images/2022-11-16-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-11-16.jpg" alt="festive wreath" class="center">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stollen in September"
-categories: munich
+categories: munich, food, christmas
 squareimage: /sabbaticaldiary/images/2022-09-29-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-09-29.jpg" alt="stollen in supermarket" class="center">
