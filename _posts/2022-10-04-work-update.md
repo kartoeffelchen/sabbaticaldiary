@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Work update"
-categories: munich
+categories: munich, programming
 squareimage: /sabbaticaldiary/images/2022-10-04-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-10-04.jpg" alt="" class="center">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Work update"
-categories: cambridge
+categories: cambridge, programming
 squareimage: /sabbaticaldiary/images/2022-11-01-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-11-01.jpg" alt="programming code" class="center">
