@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christmas shopping"
-categories: munich
+categories: munich, christmas
 squareimage: /sabbaticaldiary/images/2022-11-25-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-11-25.jpg" alt="Bauer & Hieber" class="center">

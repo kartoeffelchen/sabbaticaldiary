@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nativity set"
-categories: munich
+categories: munich, christmas
 squareimage: /sabbaticaldiary/images/2022-11-26-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-11-26.jpg" alt="Nativity set in the Christmas Market in Munich" class="center">
