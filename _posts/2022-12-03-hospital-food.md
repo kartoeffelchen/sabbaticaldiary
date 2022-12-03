@@ -8,4 +8,4 @@ squareimage: /sabbaticaldiary/images/2022-12-03-square.jpg
 
 It has been very quiet because I am the only person staying overnight in my three-person room. Occasionally, someone will come in as an outpatient for a minor surgery, but they come in the morning and leave by early afternoon.
 
-The food is not too bad - breakfast is typically bread rolls with cold sausages and cheese, lunch is a hot meal and dinner is bread rolls with cold sausages and cheese - this is typical for Germans who have a hot meal for lunch and bread in the evening (Abendbrot, i.e. evening bread). At least I am allowed one visitor a day and so Martin can bring me a good supply of extra food to eat with my evening bread, such as vegetables and soup.
+The food is not too bad - breakfast is typically bread rolls with cold sausages and cheese, lunch is a hot meal and dinner is bread rolls with cold sausages and cheese - this is typical for Germans who have a hot meal for lunch and bread in the evening (Abendbrot, i.e. evening bread).
