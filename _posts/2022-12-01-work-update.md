@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "work update"
+title: "Work update"
 categories: munich, programming
 squareimage: /sabbaticaldiary/images/2022-12-01-square.jpg
 ---
