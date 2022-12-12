@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Walking in the snow"
+categories: munich
+squareimage: /sabbaticaldiary/images/2022-12-11-square.jpg
+---
+<img src="/sabbaticaldiary/images/2022-12-11.jpg" alt="snow in the English Garden" class="center">
+
+Today was the last online antenatal course (on Zoom). After attending the session this morning, we went for a walk in the Englisher Garten to look at the snow. It was so cold that the snow was dry and powdery. I love the sound when you crush the snow under your shoes as you walk. The snow will stay for another day or two but it will melt by mid-week as the temperature will rise above freezing point. 
