@@ -2,7 +2,7 @@
 layout: page
 title: "Why am I on sabbatical leave in Munich?"
 ---
-<img src="/sabbaticaldiary/images/background.jpg" alt="screenshot" class="center">
+<img src="/sabbaticaldiary/images/background.jpg" alt="Oktoberfest" class="center">
 
 **March 2021: Martin submitted his grant application**
 
