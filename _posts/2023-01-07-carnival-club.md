@@ -11,4 +11,5 @@ We happened to go past Marienplatz and saw a local carnival club (yes - one of t
 We didn't meet the princes and princesses (and we had no ideas what their roles were) but we saw a band performing Schlager music and also saw several performers dressed up in carnival costumes.
 
 <img src="/sabbaticaldiary/images/2023-01-07-2.jpg" alt="carnival performers" class="center">
+
 <img src="/sabbaticaldiary/images/2023-01-07-3.jpg" alt="carnival performers" class="center">
