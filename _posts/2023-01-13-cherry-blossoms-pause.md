@@ -2,9 +2,9 @@
 layout: post
 title: "Cherry blossoms / Pause"
 categories: munich
-squareimage: /sabbaticaldiary/images/2023-01-11-square.jpg
+squareimage: /sabbaticaldiary/images/2023-01-13-square.jpg
 ---
-<img src="/sabbaticaldiary/images/2023-01-11.jpg" alt="pedestrian traffic light signal" class="center">
+<img src="/sabbaticaldiary/images/2023-01-13.jpg" alt="cherry blossoms" class="center">
 
 The January so far has been very mild and the Japanese cherry trees are in full blossoms. 
 
