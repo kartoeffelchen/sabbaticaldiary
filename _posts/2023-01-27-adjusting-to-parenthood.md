@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Adjusting to parenthood"
-categories: munich
+categories: munich, baby
 squareimage: /sabbaticaldiary/images/2023-01-27-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-01-27.jpg" alt="mother and pram" class="center">
