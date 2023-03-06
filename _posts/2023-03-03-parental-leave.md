@@ -10,4 +10,4 @@ Martin is already halfway through his three-months long paternity leave. I can�
 
 Our high point: Felix got his first passport this week! The process is surprisingly easy: fill in a form, attend an appointment at a local council office, pay €13 and pick it up immediately. Unfortunately it is only valid for a year because it has less security features than a normal passport, but to renew, we just need to go back to the same place and pay €6. 
 
-Our low point: like last week, there are no complaints.
+Our low point: there are generally no complaints.

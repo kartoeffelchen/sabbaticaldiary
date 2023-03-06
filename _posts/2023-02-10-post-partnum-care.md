@@ -12,6 +12,6 @@ In addition, we are able to borrow an electric pump for pumping breast milk (as 
 
 And in a few weeks' time, I will be taking an exercise class for women after giving birth to tone and strengthen the muscles of the back, abodomen and pelvis (this is also covered by the health insurance).
 
-Our high point: baby started to show a hint of smile this week! 
+Our high point: baby started to show a hint of smile (albeit randomly) this week. 
 
 Our low point: Martin had to take the baby to the paediatrician for a routine examination but due to the covid policy at the medical practice, only one parent is allowed inside the medical practice at any time so it was very stressful to do everything on his own (dress and feed an agitated baby while being kicked out of the medical practice, fold and unfold the pram in order to take it up and down a few steps). The takeaway message is: it is easy to get stressed when dealing with a crying baby and it is best try to be calm.

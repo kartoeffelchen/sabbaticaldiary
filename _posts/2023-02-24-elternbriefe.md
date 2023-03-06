@@ -10,4 +10,4 @@ The department responsible for children and youths in Munich (Stadtjugendamt Mü
 
 Our high point: Felix’s day/night pattern has started to emerge: he is more alert and active, sleeps less during the day, but he sleeps solidly during the night so although we still need to get up every three hours to feed him, we are also getting better sleeps. 
 
-Our low point: there are generally no complaints - if we have to think of something, then it will be Felix’s crankiness which occurs in some evenings. Fortunately, although there are some screams and cries, we know he will eventually settle down (we just don’t know how long the crankiness lasts).
+Our low point: Felix’s crankiness occurs irregularly in some evenings. It usually involves some screams and cries, but he will eventually settle down (we just don’t know how long the crankiness lasts).
