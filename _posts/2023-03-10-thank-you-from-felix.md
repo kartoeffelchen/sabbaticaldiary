@@ -12,5 +12,4 @@ Our high point:
 Felix met his cousin Maxe and his aunt Nick for the first time. 
 
 Our low point: 
-one friend told us looking after a newborn baby is not difficult but relentless; it is easy to lose patience and get frustrated when you are tired. I am so grateful that Martin and I can share the responsibility of looking after Felix because if one of us needs a break, the other person can take over. I cannot imagine how single parent looks after a newborn baby 24/7.  
-
+one friend told us looking after a newborn baby is not difficult but relentless; it is easy to lose patience and get frustrated when you are tired. I am so grateful that Martin and I can share the responsibility of looking after Felix because if one of us needs a break, the other person can take over. I cannot imagine how single parent looks after a newborn baby 24/7.

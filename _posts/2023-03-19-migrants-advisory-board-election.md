@@ -4,7 +4,7 @@ title: "Migrants Advisory Board Election"
 categories: munich
 squareimage: /sabbaticaldiary/images/2023-03-19-square.jpg
 ---
-<img src="/sabbaticaldiary/images/2023-03-19.jpg" alt="Voting ballot paper" class="center">
+<img src="/sabbaticaldiary/images/2023-03-19.jpg" alt="Ballot paper" class="center">
 
 As I do not hold a German passport, I cannot vote in German elections, except as a foreigner I am allowed to vote to choose the representatives for the migrants advisory board (Migrationsbeirat) in Munich. There is one election every 6 years and today is the election day. 
 
@@ -17,3 +17,5 @@ I have to say a few things about the migration advisory board and this election:
 * Language is also a barrier - the official letter inviting you to vote (see the photo below) is in German. There is a printed leaflet explaining what this election is in English and how you can get the same information in other languages. However, the German proficiency (or English) of a foreigner might not be sufficiently good enough to understand the letter and the leaflet.
 
 I didn't go to vote in person but I signed up a postal vote to ensure the turn out rate for this year's election is greater than 0%!
+
+<img src="/sabbaticaldiary/images/2023-03-19-2.jpg" alt="Letter for local election" class="center">
