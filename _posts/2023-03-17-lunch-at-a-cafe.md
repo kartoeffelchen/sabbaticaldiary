@@ -12,4 +12,4 @@ Our high point:
 Going to a cafe for lunch! The menu changes every day and a main with a side or drink is only €8.90. Most importantly, it is quiet and the food is served quickly. We will make it our new weekly activity.
 
 Our low point: 
-Felix had his first vaccination. Fortunately, he was only feeling unwell and had a slight fever for a day afterwards.
+Felix had his first vaccination. Fortunately, he had a slight fever for only a day afterwards.
