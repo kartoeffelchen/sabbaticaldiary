@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cherry blossoms / Break"
-categories: munich
+categories: munich, nature, baby
 squareimage: /sabbaticaldiary/images/2023-01-13-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-01-13.jpg" alt="cherry blossoms" class="center">

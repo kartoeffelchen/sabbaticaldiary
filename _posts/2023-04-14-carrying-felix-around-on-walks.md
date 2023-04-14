@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carrying Felix around on walks"
-categories: munich
+categories: munich, baby
 squareimage: /sabbaticaldiary/images/2023-04-14-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-04-14.jpg" alt="Martin with baby" class="center">

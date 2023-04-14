@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Easter eggs"
-categories: munich
+categories: munich, food, festival, easter
 squareimage: /sabbaticaldiary/images/2023-03-01-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-03-01.jpg" alt="dyed eggs" class="center">

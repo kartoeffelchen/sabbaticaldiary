@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Return to Munich"
-categories: Munich
+categories: munich
 squareimage: /sabbaticaldiary/images/2022-12-30-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-12-30.jpg" alt="Munich street view" class="center">

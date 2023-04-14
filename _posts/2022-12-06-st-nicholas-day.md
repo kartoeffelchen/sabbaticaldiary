@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "St Nicholas Day"
-categories: munich
+categories: munich, festival
 squareimage: /sabbaticaldiary/images/2022-12-06-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-12-06.jpg" alt="St Nicholas Day parcel" class="center">

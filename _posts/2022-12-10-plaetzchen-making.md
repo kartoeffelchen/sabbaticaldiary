@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plätzchen making"
-categories: munich
+categories: munich, festival, food, christmas
 squareimage: /sabbaticaldiary/images/2022-12-10-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-12-10.jpg" alt="Plätzchen making" class="center">

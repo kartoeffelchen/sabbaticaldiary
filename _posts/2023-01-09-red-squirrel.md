@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Red squirrel"
-categories: munich
+categories: munich, nature
 squareimage: /sabbaticaldiary/images/2023-01-09-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-01-09.jpg" alt="red squirrel" class="center">

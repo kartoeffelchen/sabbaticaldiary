@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "More Plätzchen making"
-categories: essingen
+categories: essingen, festival, food, christmas
 squareimage: /sabbaticaldiary/images/2022-12-23-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-12-23.jpg" alt="plaetzchen making" class="center">

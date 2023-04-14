@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frohe Weihnachten"
-categories: essingen
+categories: essingen, festival, christmas
 squareimage: /sabbaticaldiary/images/2022-12-24-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-12-24.jpg" alt="Christmas tree" class="center">

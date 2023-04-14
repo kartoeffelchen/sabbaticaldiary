@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Silvester"
-categories: Munich
+categories: munich, festival, food
 squareimage: /sabbaticaldiary/images/2022-12-31-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-12-31.jpg" alt="lucky pigs made from marzipan" class="center">

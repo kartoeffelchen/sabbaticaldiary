@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lebkuchen"
-categories: munich, food, christmas
+categories: munich, food, christmas, festival
 squareimage: /sabbaticaldiary/images/2022-11-24-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2022-11-24.jpg" alt="Elisenlebkuchen" class="center">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frohe Ostern"
-categories: munich
+categories: munich, festival, food, easter
 squareimage: /sabbaticaldiary/images/2023-04-09-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-04-09.jpg" alt="lamb cake" class="center">

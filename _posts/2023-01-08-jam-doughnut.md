@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jam doughnut"
-categories: munich
+categories: munich, festival, food
 squareimage: /sabbaticaldiary/images/2023-01-08-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-01-08.jpg" alt="Krapfen" class="center">

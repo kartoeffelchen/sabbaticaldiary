@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Studying with Felix"
-categories: munich, baby
+categories: munich, baby, programming
 squareimage: /sabbaticaldiary/images/2023-04-07-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-04-07.jpg" alt="work with baby" class="center">

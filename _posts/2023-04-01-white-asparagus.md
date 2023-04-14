@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "White asparagus"
-categories: munich
+categories: munich, food
 squareimage: /sabbaticaldiary/images/2023-04-01-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-04-01.jpg" alt="white asparagus" class="center">

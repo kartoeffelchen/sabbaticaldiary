@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Traditions around Epiphany"
-categories: munich
+categories: munich, festival
 squareimage: /sabbaticaldiary/images/2023-01-06-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-01-06.jpg" alt="Epiphany chalking" class="center">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happy New Year"
-categories: Munich
+categories: munich, festival
 squareimage: /sabbaticaldiary/images/2023-01-01-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-01-01.jpg" alt="fireworks" class="center">

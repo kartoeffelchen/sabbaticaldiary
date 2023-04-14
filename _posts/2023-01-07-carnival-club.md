@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Carnival club"
-categories: munich
+categories: munich, festival
 squareimage: /sabbaticaldiary/images/2023-01-07-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-01-07.jpg" alt="Marienplatz band performance" class="center">
