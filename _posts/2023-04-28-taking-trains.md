@@ -14,4 +14,4 @@ It has been a good week: Felix feeding and sleeping are regular now and we can g
 Our low point:
 ...but he also likes lots of attention and is making it difficult for Martin to concentrate on what he is doing when he is working at home. It is a difficult balance to strike we both want to spend time with Felix, but also have time to do some activities or tasks that do not need to involve Felix (i.e. work or study - we do need to earn money afterall), and keep ourselves healthy (exercises, cook and eat well, and most importantly, sleep). 
 
-The 'low point' entries in all my diary are not moans or complaints, rather, they are mere reflections on how to make things better, for example I need to be better at prioritising and exercise more self-disciplined, such as use the time when Felix is asleep to do my study instead of procrastination.
+The 'low point' entries in all my diary are not moans or complaints, rather, they are mere reflections on how to make things better, for example I need to be better at prioritising and exercise more self-discipline, such as use the time when Felix is asleep to do my study instead of procrastination.
