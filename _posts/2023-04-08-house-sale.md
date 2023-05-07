@@ -6,7 +6,7 @@ squareimage: /sabbaticaldiary/images/2023-04-08-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2023-04-08.jpg" alt="house on sale" class="center">
 
-This house that is not far from where we live is currently on sale. On the estate agent’s website it states that it has a ground area of 180 m<sup>2</sup> and the current house, which was built in 1955, has an area of 480 m<sup>2</sup>. So how much do you think it costs, given its close proximity to the Englisher Garten and the city centre?
+This house that is not far from where we live is currently on sale. On the estate agent’s website it states that it has a ground area of 480 m<sup>2</sup> and the current house, which was built in 1955, has an area of 133 m<sup>2</sup>. So how much do you think it costs, given its close proximity to the Englisher Garten and the city centre?
 
 The answer: €3.54 million. 
 
