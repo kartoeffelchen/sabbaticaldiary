@@ -10,4 +10,4 @@ Since my last work update in January I have learnt how to use Django to write dy
 
 My plans for this month: 
 - start learning discrete maths for computer science;
-- start another course to earn credit for the BSc degree that I am planning to enrol in. 
+- continue with the course on web programming using Python and JavaScript that I have been doing 
