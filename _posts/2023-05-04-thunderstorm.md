@@ -4,7 +4,7 @@ title: "Thunderstorm"
 categories: munich, nature
 squareimage: /sabbaticaldiary/images/2023-05-04-square.jpg
 ---
-<video controls width="250">
+<video controls width="768">
     <source src="/sabbaticaldiary/videos/2023-05-04.mp4" type="video/mp4">
 </video>
 
