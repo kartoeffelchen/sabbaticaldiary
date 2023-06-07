@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Madingley Hall"
+title: Madingley Hall
 categories: cambridge
 squareimage: /sabbaticaldiary/images/2023-06-04-square.jpg
 ---
