@@ -1,5 +1,6 @@
 ---
-layout: "Stork sign"
+layout: post
+title: "Stork sign"
 categories: munich
 squareimage: /sabbaticaldiary/images/2023-08-25-square.jpg
 ---

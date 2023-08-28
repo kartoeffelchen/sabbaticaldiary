@@ -1,5 +1,6 @@
 ---
-layout: "Herrsching"
+layout: post
+title: "Herrsching"
 categories: munich, herrsching
 squareimage: /sabbaticaldiary/images/2023-08-22-square.jpg
 ---

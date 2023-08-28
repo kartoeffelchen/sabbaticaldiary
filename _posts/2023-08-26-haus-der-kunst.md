@@ -1,5 +1,6 @@
 ---
-layout: "Haus der Kunst"
+layout: post
+title: "Haus der Kunst"
 categories: munich
 squareimage: /sabbaticaldiary/images/2023-08-26-square.jpg
 ---

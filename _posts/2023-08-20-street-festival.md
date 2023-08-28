@@ -1,5 +1,6 @@
 ---
-layout: "Street festival"
+layout: post
+title: "Street festival"
 categories: munich
 squareimage: /sabbaticaldiary/images/2023-08-20-square.jpg
 ---
