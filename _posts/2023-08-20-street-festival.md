@@ -10,4 +10,4 @@ This weekend is the Zamanand Festival, a festival that takes place twice a year 
 
 We came here because one of the branches of the German central bank had an open day this weekend (as part of the festival). We went to lift a gold bar and we learnt how to tell apart real and fake bank notes.
 
-Unfortunately, it was very hot today (32 <sub>o</sub>C) and as there was no shade on the road, we did not stay very long in the festival.
+Unfortunately, it was very hot today (32 <sup>o</sup>C) and as there was no shade on the road, we did not stay very long in the festival.
