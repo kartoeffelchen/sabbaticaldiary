@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dragonfly"
+title: "Dragonfly"
 categories: munich, nature
 squareimage: /sabbaticaldiary/images/2023-10-01-square.jpg
 ---
