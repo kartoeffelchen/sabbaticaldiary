@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mother's and father's day"
+title: "Mother's and father's day"
 categories: munich
 squareimage: /sabbaticaldiary/images/2023-05-14-square.jpg
 ---
