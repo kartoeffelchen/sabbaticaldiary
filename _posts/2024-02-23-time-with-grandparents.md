@@ -10,4 +10,4 @@ Felix usually goes to my parents (gung gung and po po) for a few mornings or aft
 
 This week's high point: nothing to note.
 
-This week's low point: Felix and I had been ill for the whole week. When Felix started getting ill, he had a high temperature of 39.9 <sub>o</sub>C and appeared lethargic, so we got a bit worried and took him to the A&E. Had we known how to handle it, we probably didn't need to spend six hours at the hospital - but it is better to be reassured and we will know what to do next time!
+This week's low point: Felix and I had been ill for the whole week. When Felix started getting ill, he had a high temperature of 39.9 <sup>o</sup>C and appeared lethargic, so we got a bit worried and took him to the A&E. Had we known how to handle it, we probably didn't need to spend six hours at the hospital - but it is better to be reassured and we will know what to do next time!
