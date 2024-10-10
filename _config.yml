@@ -3,7 +3,7 @@ author:
   name: R. Chow
   email: 
 description: > # this means to ignore newlines until "show_excerpts:"
-the diary that I started while on sabbatical 
+  the diary that I started while on sabbatical 
 
 baseurl: /sabbaticaldiary
 permalink: /:year/:month/:day/:title:output_ext
