@@ -1,9 +1,9 @@
-title: A Sabbatical Diary
+title: The Diary of My Sabbatical and Beyond
 author:
-  name: Rita Chow
+  name: R. Chow
   email: 
 description: > # this means to ignore newlines until "show_excerpts:"
-  The diary of my sabbatical year in Munich. 
+the diary that I started while on sabbatical 
 
 baseurl: /sabbaticaldiary
 permalink: /:year/:month/:day/:title:output_ext
