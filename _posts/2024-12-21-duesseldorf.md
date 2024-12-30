@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Düsseldorf"
-categories: travel
+categories: travel, germany
 squareimage: /sabbaticaldiary/images/2024-12-21-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2024-12-21.jpg" alt="Düsseldorf city landscape" class="center">
