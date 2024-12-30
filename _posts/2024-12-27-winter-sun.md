@@ -6,7 +6,7 @@ squareimage: /sabbaticaldiary/images/2024-12-27-square.jpg
 ---
 <img src="/sabbaticaldiary/images/2024-12-27.jpg" alt="sunny afternoon on a walk" class="center">
 
-We had a whole week of cold but dry, sunny weather every day - it is really nice to absorb the winter sun when we go for a walk. 
+We had a whole week of cold but dry, sunny weather every day - it is really nice to soak up some winter sun when we go for a walk. 
 
 This week’s high point: Felix’s vocabularies are developing really rapidly, sometimes he masters one new word a day. During this week, he is picking up both English and German words, such as ‘Keks’ (biscuits in German) and 'more'.
 
