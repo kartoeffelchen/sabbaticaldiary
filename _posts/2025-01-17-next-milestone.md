@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "next milestone"
+title: "Next milestone"
 categories: cambridge
 squareimage: /sabbaticaldiary/images/2025-01-17-square.jpg
 ---
